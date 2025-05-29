@@ -33,3 +33,14 @@ User-Based Collaborative Filtering identifies users who have similar preferences
 * **Source:** TMDB 5000 Movie Dataset (https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata), "ratings.csv" in the repository
 * **Description:** The former contains metadata of about 5000 movies with 24 columns split across 2 files, and the latter contains 408 ratings by 20 users.
 * **Key Features Used:** Movie genres, cast of the movie, and keywords that describe the plot of the movie
+
+## Sample Output
+
+* **Content-Based Filtering**
+   <p align="center">
+      <img src="assets/sample_output_content.png" alt="Sample Output - Content-Based Filtering" width="700">
+   </p>
+* **Collaborative Filtering**
+   <p align="center">
+      <img src="assets/sample_output_collaborative.png" alt="Sample Output - Collaborative Filtering" width="700">
+   </p>
